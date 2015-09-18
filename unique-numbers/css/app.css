@@ -1,0 +1,26 @@
+.input-component,
+.output-component {
+    padding: 10px;
+}
+
+.input-component .incorrect-input {
+    color: red;
+    display: none;
+    padding: 0 5px;
+}
+
+.app-container {
+    border: 1px solid black;
+    padding: 10px;
+    display: table-cell;
+}
+
+.container {
+    display: table;
+    margin: 0 auto;
+}
+
+.common-text {
+    display: inline-block;
+    padding: 0 5px;
+}
